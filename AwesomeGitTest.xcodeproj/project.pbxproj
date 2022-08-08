@@ -13,6 +13,7 @@
 		8485EC5928A18F7B00E224E9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8485EC5728A18F7B00E224E9 /* Main.storyboard */; };
 		8485EC5B28A18F7D00E224E9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8485EC5A28A18F7D00E224E9 /* Assets.xcassets */; };
 		8485EC5E28A18F7D00E224E9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8485EC5C28A18F7D00E224E9 /* LaunchScreen.storyboard */; };
+		8485EC6628A192BF00E224E9 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8485EC6528A192BF00E224E9 /* SecondViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		8485EC5A28A18F7D00E224E9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8485EC5D28A18F7D00E224E9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8485EC5F28A18F7D00E224E9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8485EC6528A192BF00E224E9 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				8485EC5128A18F7B00E224E9 /* AppDelegate.swift */,
 				8485EC5328A18F7B00E224E9 /* SceneDelegate.swift */,
 				8485EC5528A18F7B00E224E9 /* ViewController.swift */,
+				8485EC6528A192BF00E224E9 /* SecondViewController.swift */,
 				8485EC5728A18F7B00E224E9 /* Main.storyboard */,
 				8485EC5A28A18F7D00E224E9 /* Assets.xcassets */,
 				8485EC5C28A18F7D00E224E9 /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8485EC6628A192BF00E224E9 /* SecondViewController.swift in Sources */,
 				8485EC5628A18F7B00E224E9 /* ViewController.swift in Sources */,
 				8485EC5228A18F7B00E224E9 /* AppDelegate.swift in Sources */,
 				8485EC5428A18F7B00E224E9 /* SceneDelegate.swift in Sources */,
